@@ -1,0 +1,14 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "contact1"
+            },
+            "FirstName": "Charlie",
+            "LastName": "Mattea",
+            "Email" : "charlie@mailinator.com",
+            "Phone" : "8324728021"
+        }
+    ]
+}

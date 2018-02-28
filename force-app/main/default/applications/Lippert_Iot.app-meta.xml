@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Large</formFactors>
+    <label>Lippert Iot</label>
+    <navType>Standard</navType>
+    <tabs>standard-Contact</tabs>
+    <tabs>Vehicle__c</tabs>
+    <tabs>Component__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Lippert_Iot_UtilityBar</utilityBar>
+</CustomApplication>

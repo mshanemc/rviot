@@ -1,0 +1,59 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Component__c",
+                "referenceId": "Component__cRef1"
+            },
+            "Name": "Awning",
+            "ProductUniqueId__c": "407645",
+            "Serial_Number__c": "406645kk2017R4",
+            "Status__c": "Normal",
+            "Vehicle__c": "@Vehicle1"
+        },
+        {
+            "attributes": {
+                "type": "Component__c",
+                "referenceId": "Component__cRef2"
+            },
+            "Name": "Slide",
+            "ProductUniqueId__c": "4785",
+            "Serial_Number__c": "407845kz2017R5",
+            "Status__c": "Normal",
+            "Vehicle__c": "@Vehicle1"
+        },
+        {
+            "attributes": {
+                "type": "Component__c",
+                "referenceId": "Component__cRef3"
+            },
+            "Name": "Sliding Rear Window",
+            "ProductUniqueId__c": "9944432",
+            "Serial_Number__c": "408945ky2016R9",
+            "Status__c": "Normal",
+            "Vehicle__c": "@Vehicle1"
+        },
+        {
+            "attributes": {
+                "type": "Component__c",
+                "referenceId": "Component__cRef4"
+            },
+            "Name": "Cellular Modem",
+            "ProductUniqueId__c": "994443244",
+            "Serial_Number__c": "404945zz2018R1",
+            "Status__c": "Normal",
+            "Vehicle__c": "@Vehicle1"
+        },
+        {
+            "attributes": {
+                "type": "Component__c",
+                "referenceId": "Component__cRef5"
+            },
+            "Name": "Greywater tank",
+            "ProductUniqueId__c": "943444",
+            "Serial_Number__c": "40445ad2014R3",
+            "Status__c": "Normal",
+            "Vehicle__c": "@Vehicle1"
+        }
+    ]
+}

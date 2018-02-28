@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Vehicle__c",
+                "referenceId": "Vehicle1"
+            },
+            "Name": "Charlie's RV",
+            "VIN__c": "1UJBJ02M761JL0326",
+            "Owner__c" : "@contact1"
+        }
+    ]
+}

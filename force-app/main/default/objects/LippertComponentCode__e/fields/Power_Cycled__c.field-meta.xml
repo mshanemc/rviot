@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Power_Cycled__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>the power was cycled.  Updates the counter</description>
+    <externalId>false</externalId>
+    <isFilteringDisabled>false</isFilteringDisabled>
+    <isNameField>false</isNameField>
+    <isSortingDisabled>false</isSortingDisabled>
+    <label>Power Cycled</label>
+    <type>Checkbox</type>
+</CustomField>

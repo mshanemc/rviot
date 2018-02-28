@@ -1,0 +1,25 @@
+[
+    {
+        "sobject": "Contact",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Contact.json"
+        ]
+    },{
+        "sobject": "Vehicle__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Vehicle__cs.json"
+        ]
+    },
+    {
+        "sobject": "Component__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "Component__cs.json"
+        ]
+    }
+]

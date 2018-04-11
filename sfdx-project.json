@@ -2,7 +2,11 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": true,
+      "id": "0Ho6A000000001JSAQ",
+      "versionName": "v 1.0",
+      "versionDescription": "iot objects only",
+      "versionNumber": "1.0.0.NEXT"
     }
   ],
   "namespace": "",

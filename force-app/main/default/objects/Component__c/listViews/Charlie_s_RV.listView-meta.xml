@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Charlie_s_RV</fullName>
+    <columns>NAME</columns>
+    <columns>Status__c</columns>
+    <columns>Vehicle__c</columns>
+    <columns>Serial_Number__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>Charlie's RV</label>
+</ListView>

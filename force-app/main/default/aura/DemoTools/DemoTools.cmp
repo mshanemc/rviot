@@ -1,0 +1,10 @@
+<aura:component controller="DemoToolsCtrl" implements="force:LightningQuickAction">
+
+<lightning:layout>
+	<lightning:layoutItem>
+		<lightning:button variant="destructive" onclick="{!c.reset}" label="Full Reset"/>
+		<lightning:button variant="success" onclick="{!c.allClear}" label="All Devices say OK" />
+	</lightning:layoutItem>
+</lightning:layout>
+
+</aura:component>

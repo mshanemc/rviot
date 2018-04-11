@@ -1,0 +1,49 @@
+{
+	"records": [
+		{
+			"attributes": {
+				"type": "LippertComponentCode__e",
+				"referenceId": "LippertComponentCode__eRef1"
+			},
+			"ProductUniqueId__c": "407645",
+			"DTC_Type__c": "OK",
+			"DTC_Code__c": "200"
+		},
+		{
+			"attributes": {
+				"type": "LippertComponentCode__e",
+				"referenceId": "LippertComponentCode__eRef2"
+			},
+			"ProductUniqueId__c": "4785",
+			"DTC_Type__c": "OK",
+			"DTC_Code__c": "200"
+		},
+		{
+			"attributes": {
+				"type": "LippertComponentCode__e",
+				"referenceId": "LippertComponentCode__eRef3"
+			},
+			"ProductUniqueId__c": "9944432",
+			"DTC_Type__c": "OK",
+			"DTC_Code__c": "200"
+		},
+		{
+			"attributes": {
+				"type": "LippertComponentCode__e",
+				"referenceId": "LippertComponentCode__eRef4"
+			},
+			"ProductUniqueId__c": "994443244",
+			"DTC_Type__c": "OK",
+			"DTC_Code__c": "200"
+		},
+		{
+			"attributes": {
+				"type": "LippertComponentCode__e",
+				"referenceId": "LippertComponentCode__eRef5"
+			},
+			"ProductUniqueId__c": "943444",
+			"DTC_Type__c": "OK",
+			"DTC_Code__c": "200"
+		}
+	]
+}

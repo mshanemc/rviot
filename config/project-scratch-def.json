@@ -1,5 +1,7 @@
 {
-    "orgName": "shane.mclaughlin Company",
+    "orgName": "RvIoT",
+    "adminEmail" : "platformpmmdemos@gmail.com",
+    "description": "RV IoT demo",
     "sourceOrg" : "00D6A000001h6L5UAI",
     "features" : ["ExternalSharing"],
     "orgPreferences" : {

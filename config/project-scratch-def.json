@@ -2,9 +2,16 @@
     "orgName": "RvIoT",
     "adminEmail" : "platformpmmdemos@gmail.com",
     "description": "RV IoT demo",
-    "sourceOrg" : "00D6A000001h6L5UAI",
-    "features" : ["ExternalSharing"],
-    "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"]
+    "edition": "Enterprise",
+    "features" : ["ExternalSharing", "IoT"],
+    "settings": {
+        "orgPreferenceSettings": {
+            "s1DesktopEnabled": true,
+            "s1EncryptedStoragePref2": false
+        },
+        "ioTSettings": {
+            "enableIoT": true,
+            "iotInsights": false
+        }
     }
 }
